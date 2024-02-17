@@ -1,5 +1,3 @@
-// fswatch -o themes/davoramaFlat.js | xargs -n1 -I{} sh -c 'node themes/davoramaFlat.js > /Users/davidcabanne/.config/zed/themes/davoramaFlat.json'
-
 const light_000 = "#282c34";
 const light_010 = "#3e4148";
 const light_020 = "#53565d";
@@ -24,11 +22,6 @@ const dark_080 = "#08090a";
 const dark_090 = "#040405";
 const dark_100 = "#000000";
 
-const testColor = "#00ff04";
-
-const themeName = "DavoramaFlat";
-const author = "Davorama";
-
 const backgroundPrimary = dark_010;
 const backgroundSecondary = dark_020;
 const backgroundThird = dark_000;
@@ -40,6 +33,7 @@ const type = "#E5BF7A"; // component bright Yellow
 const hint = "#C678DD"; // purple
 const functionPrimary = "#61AFEE"; // blue
 const danger = "#A64253";
+const testColor = "#00ff04";
 
 const myTheme = {
   $schema: "https://zed.dev/schema/themes/v0.1.0.json",
