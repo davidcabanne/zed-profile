@@ -1,4 +1,4 @@
-// fswatch -o davoramaFlat.js | xargs -n1 -I{} sh -c 'node davoramaFlat.js > /Users/davidcabanne/.config/zed/themes/davoramaFlat.json'
+// fswatch -o themes/davoramaFlat.js | xargs -n1 -I{} sh -c 'node themes/davoramaFlat.js > /Users/davidcabanne/.config/zed/themes/davoramaFlat.json'
 
 const light_000 = "#282c34";
 const light_010 = "#3e4148";
@@ -80,7 +80,7 @@ const myTheme = {
         "icon.disabled": null,
         "icon.placeholder": null,
         "icon.accent": null,
-        "status_bar.background": backgroundThird,
+        "status_bar.background": dark_030,
         "title_bar.background": backgroundPrimary,
         "toolbar.background": backgroundPrimary,
         "tab_bar.background": backgroundPrimary,

@@ -1,0 +1,9 @@
+{
+  "name": "davorama-zed-profile",
+  "version": "1.0.0",
+  "scripts": {
+    "watch": "fswatch -o themes/davoramaFlat.js | xargs -n1 -I{} sh -c 'node themes/davoramaFlat.js > /Users/davidcabanne/.config/zed/themes/davoramaFlat.json'"
+  },
+  "dependencies": {
+  }
+}
