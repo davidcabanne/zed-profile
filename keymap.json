@@ -1,0 +1,9 @@
+[
+  {
+    "context": "Editor",
+    "bindings": {
+      "shift-alt-f": "editor::Format",
+      "shift-alt-down": "editor::DuplicateLine"
+    }
+  }
+]

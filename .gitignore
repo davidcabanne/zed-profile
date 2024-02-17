@@ -1,0 +1,6 @@
+conversations/
+embeddings/
+externalThemes/
+
+.tmp*
+.DS_Store
