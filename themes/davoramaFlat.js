@@ -109,7 +109,7 @@ const myTheme = {
         "terminal.ansi.black": "#000000ff", // Black
         "terminal.ansi.bright_black": "#373737ff", // Bright Black
         "terminal.ansi.dim_black": "#000000ff", // Dim Black
-        "terminal.ansi.red": "#c80000ff", // Red
+        "terminal.ansi.red": danger, // Red
         "terminal.ansi.bright_red": "#ff0000ff", // Bright Red
         "terminal.ansi.dim_red": "#910000ff", // Dim Red
         "terminal.ansi.green": "#00c800ff", // Green

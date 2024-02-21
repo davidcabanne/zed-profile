@@ -72,7 +72,7 @@
         "terminal.ansi.black": "#000000ff",
         "terminal.ansi.bright_black": "#373737ff",
         "terminal.ansi.dim_black": "#000000ff",
-        "terminal.ansi.red": "#c80000ff",
+        "terminal.ansi.red": "#A64253",
         "terminal.ansi.bright_red": "#ff0000ff",
         "terminal.ansi.dim_red": "#910000ff",
         "terminal.ansi.green": "#00c800ff",

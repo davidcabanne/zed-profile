@@ -10,6 +10,7 @@
   "base_keymap": "VSCode",
   "theme": "DavoramaFlat",
   "vim_mode": false,
+  "ui_font_family": "Zed Sans",
   "ui_font_size": 14,
   "buffer_font_size": 13,
   "buffer_font_family": "CommitMono",
@@ -28,5 +29,6 @@
   },
   "prettier": {
     "singleQuote": true
-  }
+  },
+  "confirm_quit": false
 }
